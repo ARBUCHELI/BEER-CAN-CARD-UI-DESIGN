@@ -1,4 +1,4 @@
-# BEER-CAN-CAR-UI-DESIGN
+# BEER-CAN-CARD-UI-DESIGN
 
 This is a Web Application focused on Graphic Design, and focused on the use of colors and manipulation of elements with css.
 
